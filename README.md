@@ -8,7 +8,7 @@
 - 🎓 I want to get into **somewhere**.
 
 <p align="center">
-  <a href="https://discord.com/users/1135894365928165446" target="_blank" rel="nonreferrer"><img src="https://lanyard.cnrad.dev/api/1135894365928165446"></a>
+  <span>My Discord is 'therealandrew' with a period at the end!</span>
 </p>
 
 # Coding Languages & Frameworks
@@ -25,7 +25,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.windows.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="40" height="40"/></a>
@@ -55,7 +54,8 @@
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/animate.html" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_Animate_CC_icon_%282020%29.svg/1200px-Adobe_Animate_CC_icon_%282020%29.svg.png" alt="animate" width="40" height="40"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Xcode_11.6_Mac.png/1920px-Xcode_11.6_Mac.png" alt="swift" width="40" height="40"/> </a>
+<a href="https://apple.com/xcode" target="_blank" rel="noreferrer">
 </h3>
 
 
