@@ -9,6 +9,7 @@
 
 <p align="center">
   <span>My Discord is 'therealandrew' with a period at the end!</span>
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1135894365928165446?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding%20some%20C++%20library...)](https://discord.com/users/1135894365928165446)
 </p>
 
 # Coding Languages & Frameworks
