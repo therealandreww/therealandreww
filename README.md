@@ -1,58 +1,11 @@
-<h1 align="center">Hi, i'm Jose</h1>
-<h3 align="center">Python Developer | Perú 🇵🇪 / Estados Unidos 🇺🇸</h3>
+<h1 align="center">TheRealAndrew</h1>
 
-  <p align="center">
-    <a href="https://github.com/joalricha869/PyPrompt/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/joalricha869/PyPrompt/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/joalricha869/PyPrompt" />
-    </a>
-    <a href="https://github.com/joalricha869/PyPrompt/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/joalricha869/PyPrompt?color=0088ff" />
-    </a>
-    <a href="https://github.com/joalricha869/PyPrompt/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/joalricha869/PyPrompt?color=0088ff" />
-    </a>
-
-  </p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/83835381/213813568-9bb2a188-28be-4161-b24d-4904e5dbca48.png" alt="joalricha869" width="300" height="200" />
-</p>
-
-- 🏫 I am currently in High School (_9th Grade_)
-- 🌱 I'm currently learning **Unity**
-- 👩‍💻 I'm a **Certified HTML and CSS Developer**
-- 🖥 I just Passed the CompTIA IT Fundamentals + (ITF+) Exam!!!
-- 🗣 I can speak English and Spanish (_currently learning **Portuguese**_)
-- 🎓 I want to get into **MIT** to major in _**Computer Science**_ to code for a daily basis.
-
-## You Should Follow These People
-
-<h3 align="left"> </h3>
-<p align="center">
-  <a href="https://github.com/idkDwij" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/94942567?v=4" alt="dwij" width="60" height="60"/> </a>
-  <a href="https://github.com/BigBoyTaco" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/90655713?v=4" alt="nathan" width="60" height="60"/> </a>
-  <a href="https://github.com/theclosedbitter" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/117611091?v=4" alt="diego" width="60" height="60"/> </a>
-  <a href="https://github.com/SmallMenace" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/120416956?v=4" alt="billy" width="60" height="60"/> </a>
-  <a href="https://github.com/BigBoyTacoStudios" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/97241739?s=96&v=4" alt="bbts" width="60" height="60"/> </a>
-  <a href="https://github.com/NXWeb-Corperation" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/103967995?s=200&v=4" alt="nxweb" width="60" height="60"/> </a>
-  <a href="https://github.com/titaniumnetwork-dev" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/109880871?s=200&v=4" alt="unblockerdevs" width="60" height="60"/> </a>
-  <a href="https://github.com/lioxryt" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/91391994?v=4" alt="nice unblocker site dev" width="60" height="60"/> </a>
-  <a href="https://github.com/codedamn" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/37881195?s=200&v=4" alt="online ide" width="60" height="60"/> </a>
-  <a href="https://github.com/LadyTitanos" target="_blank" rel="nonreferrer">
-  <img src="https://avatars.githubusercontent.com/u/126709336?v=4" alt="billys friend sophie" width="60" height="60"/> </a>
-</p>
+- 👩‍💻 I am a 23yo Korean male.
+- 🌱 I'm currently learning **MariaDB Queries**.
+- 👩‍💻 I'm a **Certified C/C++, Web, Python, and Rust Developer**
+- 🖥 I use a MacBook Pro 14inch M2 Max
+- 🗣 I'm Korean, but I can speak English **fluently**.
+- 🎓 I want to get into **somewhere**.
 
 <p align="center">
   <a href="https://discord.com/users/849827353335955478" target="_blank" rel="nonreferrer"><img src="https://lanyard.cnrad.dev/api/849827353335955478"></a>
@@ -62,7 +15,7 @@
 <h3 align="left"> </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,js,css,nodejs,py, " />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,js,css,nodejs,py,rust, " />
   </a>
 </p>
 
