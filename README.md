@@ -70,8 +70,8 @@
 </p>  
   
 <p align="center">
-  <table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/joalricha869/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/joalricha869/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/joalricha869/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br>
-<a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+  <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/therealandreww/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/therealandreww/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/therealandreww/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
 </p>
 
 
@@ -82,19 +82,19 @@
 # FAQ
 
 ### Email
-joalricha869@gmail.com
+help@andreww.csproject.org
 
 ### Discord
-joalricha#8877
+therealandrew.
+
+### CommunitySanctuary
+We are providing a safe and convenient web for everyone! Check the Community-Sanctuary Project (CSProject) Discord for details.
 
 
-# Need proof of the languages claim??
+# Language Proof
 
 English:
-- Of course you know this is true dingus. (_Even though this IS my second language lmao_)
+- Oh well, if you don't understand I'm an English master.....
 
-Spanish:
-- Yo hablo español también. Es mi idioma primario, sabías? El inglés es mi idioma secundario.
-
-Portuguese:
-- Sim, eu falo Português. Eu estou aprendendo nesse idioma em a escola. Você deveria me seguir no GitHub!
+Korean:
+- 안녕하세요! 김희운이라고 하는 C/C++을 주로 사용하는 개발자입니다!
