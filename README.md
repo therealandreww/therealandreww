@@ -61,10 +61,10 @@
 
 <p align="center">
   <a href="https://github.com/joalricha869/github-readme-stats">
-    <img align="center" src="https://bellomia-readme-stats.vercel.app/api?username=joalricha869&show_icons=true&theme=merko" />
+    <img align="center" src="https://bellomia-readme-stats.vercel.app/api?username=therealandreww&show_icons=true&theme=merko" />
   </a>
   <a href="https://github.com/joalricha869/github-readme-stats">
-    <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=joalricha869&layout=compact&show_icons=true&theme=merko" />
+    <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=therealandreww&layout=compact&show_icons=true&theme=merko" />
   </a>
   <br>
 </p>  
@@ -77,7 +77,7 @@
 
 ### Totally Not My Social Media
 
-[joalricha - YouTube](https://www.youtube.com/channel/UCCAJQLCgq0HAeCYGrwVG1qQ)
+[ClearCode - YouTube](https://www.youtube.com/@clearcodee_)
 
 # FAQ
 
