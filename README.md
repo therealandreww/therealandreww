@@ -8,7 +8,7 @@
 - 🎓 I want to get into **somewhere**.
 
 <p align="center">
-  <a href="https://discord.com/users/1135894365928165446" target="_blank" rel="nonreferrer"><img src="https://lanyard.cnrad.dev/api/849827353335955478"></a>
+  <a href="https://discord.com/users/1135894365928165446" target="_blank" rel="nonreferrer"><img src="https://lanyard.cnrad.dev/api/1135894365928165446"></a>
 </p>
 
 # Coding Languages & Frameworks
