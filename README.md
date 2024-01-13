@@ -6,6 +6,7 @@
 - 🖥 I use a MacBook Pro 14inch M2 Max
 - 🗣 I'm Korean, but I can speak English **fluently**.
 - 🎓 I want to get into **somewhere**.
+- 🕸️ I own a [website](https://andreww.csproject.org) and a Minecraft Server (adw.us.to)
 
 <p align="center">
   <span>My Discord is 'therealandrew' with a period at the end!</span>
